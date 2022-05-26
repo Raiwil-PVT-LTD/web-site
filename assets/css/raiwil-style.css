@@ -129,7 +129,7 @@ body {
   font-size: 13px;
   color: #fff;
   background:  rgb(208,30,62);
-  background: linear-gradient(-145deg,  rgb(208,30,62) 0%, rgba(246,191,159,1) 100%);
+  background: linear-gradient(-145deg,  rgb(208,30,62) 0%, rgb(208,30,62) 100%);
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
@@ -156,7 +156,7 @@ body {
 
 .main-button-gradient a:hover {
   background:  rgb(208,30,62);
-  background: linear-gradient(-145deg,  rgb(208,30,62) 0%, rgba(246,191,159,1) 100%);
+  background: linear-gradient(-145deg,  rgb(208,30,62) 0%, rgb(208,30,62) 100%);
   opacity: 0.9;
 }
 
@@ -960,7 +960,7 @@ section.our-courses ul.nacc li .left-image img {
 section.our-courses ul.nacc li .left-image .price h6 {
   position: absolute;
   background: rgb(208,30,62);
-  background: linear-gradient(-145deg, rgb(208,30,62) 0%, rgba(246,191,159,1) 100%);
+  background: linear-gradient(-145deg, rgb(208,30,62) 0%, rgb(208,30,62) 100%);
   color: #fff;
   top: 20px;
   left: 20px;
@@ -1202,7 +1202,7 @@ section.contact-us .contact-info .icon i {
   line-height: 50px;
   border-radius: 50%;
   background: rgb(208,30,62);
-  background: linear-gradient(-145deg, rgb(208,30,62) 0%, rgba(246,191,159,1) 100%);
+  background: linear-gradient(-145deg, rgb(208,30,62) 0%, rgb(208,30,62) 100%);
   color: #fff;
 }
 
@@ -1270,7 +1270,7 @@ section.contact-us #contact button {
   font-size: 13px;
   color: #fff;
   background: rgb(208,30,62);
-  background: linear-gradient(-145deg, rgb(208,30,62) 0%, rgba(246,191,159,1) 100%);
+  background: linear-gradient(-145deg, rgb(208,30,62) 0%, rgb(208,30,62) 100%);
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
@@ -1608,6 +1608,7 @@ section.our-office #video {
 
 section.our-office #video .thumb {
   position: relative;
+  left: 30%;
 }
 
 section.our-office #video .thumb .play-button {
